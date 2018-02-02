@@ -1,4 +1,7 @@
 22222222222
 le aplico un cambio
 le aplico otro cambio a file2 después del pull de rama 2 con master
+<<<<<<< HEAD
 cambio rama2_2_12:02
+=======
+>>>>>>> refs/remotes/origin/master
